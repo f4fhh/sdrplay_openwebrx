@@ -1,0 +1,1 @@
+docker run -it --rm --privileged -v /mnt/user/appdata/sdrplay_openwebrx:/etc/openwebrx --name sdrplay_openwebrx -p 8073:8073 --device /dev/bus/usb f4fhh/sdrplay_openwebrx /bin/bash
