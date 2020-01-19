@@ -1,4 +1,4 @@
-# sdrplay_dump1090
+# sdrplay_openwebrx
 Docker container for OpenwebRX web sdr on SDRPlay devices
 
 It works with compatible devices including:
