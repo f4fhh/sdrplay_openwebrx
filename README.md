@@ -22,6 +22,7 @@ f4fhh/sdrplay_openwebrx
 ```
 ### HISTORY
  - Version 0.1.0: Initial build
+ - Version 0.2.0: New openwebrx version
 
 ### Credits
  - [SDRPlay](https://github.com/SDRplay) for the SDK of the RSP devices
