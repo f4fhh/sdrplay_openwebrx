@@ -1,3 +1,9 @@
+## From 2020-1-20 sdrplay_openwebrx development is discontinued.
+
+I would like to say big thanks to everyone who supported me during this project.
+
+Please go to the repository of [Jakob Ketterl](https://github.com/jketterl/openwebrx) who added docker builds to the official repository.
+
 # sdrplay_openwebrx
 Docker container for OpenwebRX web sdr on SDRPlay devices
 
